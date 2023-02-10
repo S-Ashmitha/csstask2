@@ -1,0 +1,221 @@
+body{
+    background-image:url("laptop.jpg");
+    background-size: cover;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-repeat: no-repeat;
+}
+.regform{
+    width: 80%;
+    margin:30px auto;
+    background-color:rgba(9, 116, 89, 0.644);
+    color: white;
+    padding: 10px 20px 30px;
+    border-color:white;
+    border-width: 2px;
+    box-sizing: border-box;
+    border-radius: 20px;
+}
+header{
+    text-align: center;
+    font-weight:bold;
+    color: white;
+    letter-spacing: 7px;
+}
+.input{
+    padding: 5px;
+    position: relative;
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    
+}
+#fname{
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    width:400px;
+    background-color:rgba(174, 239, 222, 0.4);
+    position: relative;
+    right:-55px;
+}
+#lname{
+    position: relative;
+    left: 750px;
+    top:-50px;
+    line-height: 40px;
+    border-radius: 6px;
+    background-color:rgba(174, 239, 222, 0.4);
+
+
+}
+.label1{
+    position: relative;
+    left: 700px;
+    top:-48px;
+    line-height: 40px;
+    border-radius: 6px;
+
+
+}
+#country{
+    position: relative;
+    left: 785px;
+    top:-90px;
+    height: 40px;
+    border-radius: 6px;
+    background-color:rgba(174, 239, 222, 0.4);
+    width:200px;
+    color: white;
+    
+}
+#email{
+    line-height: 40px;
+    border-radius: 6px;
+    width: 440px;
+    background-color:rgba(174, 239, 222, 0.4);
+    position:relative;
+    top:-30px;
+    right:-20px;
+}
+#code{
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    width:40px;
+    background-color:rgba(174, 239, 222, 0.4);
+    position:relative; 
+    top:-15px;
+    right:-20px;
+}
+#phone{
+    position: relative;
+    right: -260px;
+    top:-57px;
+    line-height: 40px;
+    border-radius: 6px;
+    width: 350px;
+    background-color:rgba(174, 239, 222, 0.4);
+}
+#biladdress{
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    width:405px;
+    background-color:rgba(174, 239, 222, 0.4);
+    position: relative;
+    top: -45px;
+}
+#address{
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    width:403px;
+    background-color:rgba(174, 239, 222, 0.4);
+    position: relative;
+    top: -30px;
+    right:-20px;
+}
+#city{
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    width:403px;
+    background-color:rgba(174, 239, 222, 0.4);
+    position: relative;
+    top:-20px;
+    right:-110px;
+}
+#state{
+    position: relative;
+    left: 700px;
+    top:-70px;
+    line-height: 40px;
+    border-radius: 6px;
+    background-color:rgba(174, 239, 222, 0.4);
+   
+
+}
+.label2{
+    position: relative;
+    left: 700px;
+    top:-70px;
+    line-height: 40px;
+    border-radius: 6px;
+}
+::placeholder{
+    color: white;
+}
+#zip{
+    background-color:rgba(174, 239, 222, 0.4);
+    line-height: 40px;
+    border-radius: 6px;
+    padding: 0 22px;
+    width:400px;
+    position: relative;
+    top: -50px;
+    right:-70px;
+}
+#gmail{
+    position: relative;
+    top:-30px;
+}
+#idph{
+    position: relative;
+    top:-15px;
+}
+#idbil{
+    position: relative;
+    top:-45px;
+}
+#addr{
+    position: relative;
+    top:-30px;
+}
+#cty{
+    position: relative;
+    top:-20px;
+}
+#czip{
+    position: relative;
+    top:-50px;
+}
+.opt{
+    position: relative;
+    top:-50px;
+}
+option{
+    color: black;
+}
+#cnty{
+   position: relative;
+   right:-750px;
+   top:-90px;
+}
+button{
+    font-size: 16px;
+    color: white;
+}
+#btn1{
+    position: relative;
+    width:150px;
+    height: 30px;
+    background-color:rgb(34, 104, 234);
+    right:-180px;
+    top:-50px;
+}
+#btn2{
+    position: relative;
+    left: 350px;
+    top:-81px;
+    width:100px;
+    height: 30px;
+    background-color:rgb(132, 132, 25);
+}
+footer{
+    text-align: center;
+    color: white;
+    text: weight 10px;;
+}
+span{
+    color: red;
+}

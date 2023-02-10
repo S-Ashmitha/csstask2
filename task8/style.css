@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(219, 216, 216);
+}
+table{
+    width: 50%;
+    height: 50%;
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid black;
+}
+th{
+    border: 2px solid black;
+}
